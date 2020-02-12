@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         // Ejercicio resuelto por Luis
         super.onCreate(savedInstanceState);
+        // Ejercicio 3 resuelto por Luis
         setContentView(R.layout.activity_main);
     }
 }
